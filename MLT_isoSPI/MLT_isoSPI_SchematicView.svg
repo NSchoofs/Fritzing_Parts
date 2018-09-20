@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="57.643px"
+   height="71.833px"
+   viewBox="0 0 57.643 71.833"
+   xml:space="preserve"
+   sodipodi:docname="MLT_isoSPI_SchematicView.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata111"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs109" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="2560"
+   inkscape:window-height="1378"
+   id="namedview107"
+   showgrid="false"
+   inkscape:zoom="13.141592"
+   inkscape:cx="28.82589"
+   inkscape:cy="32.471459"
+   inkscape:window-x="1272"
+   inkscape:window-y="-8"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+
+
+<g
+   id="schematic">
+	
+		<rect
+   id="part_symbol"
+   x="7.2"
+   y="7.2"
+   width="43.199"
+   height="57.599"
+   stroke-linecap="round"
+   stroke-width="0.9002"
+   stroke="#000000"
+   fill="#FFFFFF" />
+	<g
+   id="pins">
+		<g
+   id="g18">
+			
+				<line
+   x1="50.401"
+   y1="50.4"
+   x2="57.6"
+   y2="50.4"
+   id="line16"
+   stroke-linejoin="round"
+   stroke-linecap="round"
+   stroke-width="0.7"
+   stroke="#555555"
+   fill="none" />
+		</g>
+		<g
+   id="g22">
+			
+				<line
+   x1="50.401"
+   y1="43.2"
+   x2="57.6"
+   y2="43.204"
+   id="line20"
+   stroke-linejoin="round"
+   stroke-linecap="round"
+   stroke-width="0.7"
+   stroke="#555555"
+   fill="none" />
+		</g>
+		<g
+   id="g26"
+   transform="translate(0.1)">
+			
+				<line
+   x1="28.799999"
+   y1="64.799004"
+   x2="28.799999"
+   y2="72"
+   id="line24"
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+		</g>
+		
+			<line
+   x1="0"
+   y1="28.8"
+   x2="7.2"
+   y2="28.8"
+   id="line28"
+   stroke-linejoin="round"
+   stroke-linecap="round"
+   stroke-width="0.7"
+   stroke="#555555"
+   fill="none" />
+		
+			<line
+   x1="0"
+   y1="21.6"
+   x2="7.2"
+   y2="21.6"
+   id="line30"
+   stroke-linejoin="round"
+   stroke-linecap="round"
+   stroke-width="0.7"
+   stroke="#555555"
+   fill="none" />
+		
+			<line
+   x1="0"
+   y1="43.2"
+   x2="7.2"
+   y2="43.2"
+   id="line32"
+   stroke-linejoin="round"
+   stroke-linecap="round"
+   stroke-width="0.7"
+   stroke="#555555"
+   fill="none" />
+		
+			<line
+   x1="0"
+   y1="36"
+   x2="7.2"
+   y2="36"
+   id="line34"
+   stroke-linejoin="round"
+   stroke-linecap="round"
+   stroke-width="0.7"
+   stroke="#555555"
+   fill="none" />
+		<g
+   id="g38"
+   transform="translate(0.1)">
+			
+				<line
+   x1="28.799999"
+   y1="7.2010002"
+   x2="28.799999"
+   y2="0"
+   id="line36"
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round" />
+		</g>
+		
+		
+	<line
+   style="fill:none;stroke:#555555;stroke-width:0.69999999;stroke-linecap:round;stroke-linejoin:round"
+   x1="-1.5134835e-005"
+   y1="50.324966"
+   x2="7.1999846"
+   y2="50.324966"
+   id="line32-8" /></g>
+	<g
+   id="pin_numbers">
+		
+		
+		<text
+   transform="matrix(1 0 0 1 2.7742 20.0605)"
+   font-size="3"
+   id="text53"
+   font-family="'DroidSans'"
+   fill="#555555"
+   style="-inkscape-font-specification:'DroidSans, Normal';font-family:DroidSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
+     sodipodi:role="line"
+     id="tspan1019">1</tspan></text>
+
+
+		<text
+   font-size="3"
+   id="text55"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+   x="30.5324"
+   y="3.8729999"><tspan
+     sodipodi:role="line"
+     id="tspan1037"
+     x="30.5324"
+     y="3.8729999">6</tspan></text>
+
+
+		<text
+   font-size="3"
+   id="text57"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+   x="30.2624"
+   y="69.109901"><tspan
+     sodipodi:role="line"
+     id="tspan1035"
+     x="30.2624"
+     y="69.109901">5</tspan></text>
+
+
+		<text
+   transform="matrix(1 0 0 1 2.7742 27.1855)"
+   font-size="3"
+   id="text59"
+   font-family="'DroidSans'"
+   fill="#555555"
+   style="-inkscape-font-specification:'DroidSans, Normal';font-family:DroidSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
+     sodipodi:role="line"
+     id="tspan1021">2</tspan></text>
+
+
+		<text
+   font-size="3"
+   id="text61"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+   x="2.7743711"
+   y="34.685501"><tspan
+     sodipodi:role="line"
+     id="tspan1023"
+     x="2.7743711"
+     y="34.685501">3</tspan></text>
+
+
+		<text
+   font-size="3"
+   id="text63"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+   x="2.9062071"
+   y="41.811001"><tspan
+     sodipodi:role="line"
+     id="tspan1025"
+     x="2.9062071"
+     y="41.811001">4</tspan></text>
+
+
+		<text
+   transform="matrix(1 0 0 1 53.1409 42.0747)"
+   font-size="3"
+   id="text65"
+   font-family="'DroidSans'"
+   fill="#555555"
+   style="-inkscape-font-specification:'DroidSans, Normal';font-family:DroidSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
+     sodipodi:role="line"
+     id="tspan1043">8</tspan></text>
+
+
+		<text
+   transform="matrix(1 0 0 1 53.1409 49.1997)"
+   font-size="3"
+   id="text67"
+   font-family="'DroidSans'"
+   fill="#555555"
+   style="-inkscape-font-specification:'DroidSans, Normal';font-family:DroidSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:3px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
+     sodipodi:role="line"
+     id="tspan1045">9</tspan></text>
+
+
+	<text
+   y="48.935589"
+   x="2.7743711"
+   style="font-size:3px;font-family:DroidSans;fill:#555555;-inkscape-font-specification:'DroidSans, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+   font-size="3"
+   id="text63-5"><tspan
+     sodipodi:role="line"
+     id="tspan1031">7</tspan><tspan
+     sodipodi:role="line"
+     id="tspan1033" /></text>
+
+</g>
+	<g
+   id="pin_labels">
+		<text
+   font-size="4.5"
+   id="text70"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+   x="42.7122"
+   y="44.318802"><tspan
+     sodipodi:role="line"
+     id="tspan924"
+     x="42.7122"
+     y="44.318802">IP</tspan></text>
+
+
+		<text
+   font-size="4.5"
+   id="text72"
+   x="42.7122"
+   y="51.619598"
+   style="font-size:4.5px;font-family:DroidSans;fill:#555555"><tspan
+     sodipodi:role="line"
+     id="tspan928"
+     x="42.7122"
+     y="51.619598">IM</tspan></text>
+
+
+		<g
+   id="g76"
+   transform="translate(3.9908509,0.56497121)">
+			
+				<text
+   transform="rotate(-90.000003,44.782099,8.0817008)"
+   font-size="4.5"
+   id="text74"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#999999"><tspan
+     sodipodi:role="line"
+     id="tspan922"
+     x="0"
+     y="0">isoSPI</tspan></text>
+
+
+		</g>
+		<text
+   font-size="4.5"
+   id="text78"
+   x="24.7106"
+   y="62.484901"
+   style="font-size:4.5px;font-family:DroidSans;fill:#555555">Gnd</text>
+
+
+		<text
+   font-size="4.5"
+   id="text80"
+   x="25.612"
+   y="12.5352"
+   style="font-size:4.5px;font-family:DroidSans;fill:#555555">V</text>
+
+
+		<text
+   font-size="4.5"
+   id="text82"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+   x="28.0329"
+   y="12.5352"><tspan
+     sodipodi:role="line"
+     id="tspan918"
+     x="28.0329"
+     y="12.5352">d</tspan></text>
+
+
+		<text
+   font-size="4.5"
+   id="text84"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.5px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555555"
+   x="30.43964"
+   y="12.5352"><tspan
+     sodipodi:role="line"
+     id="tspan920"
+     x="30.43964"
+     y="12.5352">d</tspan></text>
+
+
+		<text
+   transform="matrix(1 0 0 1 9.2595 22.6836)"
+   font-size="4.5"
+   id="text86"
+   font-family="'DroidSans'"
+   fill="#555555"
+   style="-inkscape-font-specification:'DroidSans, Normal';font-family:DroidSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.5px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
+     sodipodi:role="line"
+     id="tspan975">MOSI</tspan></text>
+
+
+		<text
+   transform="matrix(1 0 0 1 9.219 29.9863)"
+   font-size="4.5"
+   id="text88"
+   font-family="'DroidSans'"
+   fill="#555555"
+   style="-inkscape-font-specification:'DroidSans, Normal';font-family:DroidSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.5px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
+     sodipodi:role="line"
+     id="tspan977">MISO</tspan></text>
+
+
+		<text
+   transform="matrix(1 0 0 1 9.2595 37.0688)"
+   font-size="4.5"
+   id="text90"
+   font-family="'DroidSans'"
+   fill="#555555"
+   style="-inkscape-font-specification:'DroidSans, Normal';font-family:DroidSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.5px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
+     sodipodi:role="line"
+     id="tspan979">SCK</tspan></text>
+
+
+		<text
+   transform="matrix(1 0 0 1 9.219 44.3716)"
+   font-size="4.5"
+   id="text92"
+   font-family="'DroidSans'"
+   fill="#555555"
+   style="-inkscape-font-specification:'DroidSans, Normal';font-family:DroidSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.5px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><tspan
+     sodipodi:role="line"
+     id="tspan981">CS</tspan></text>
+
+
+		
+		
+		
+			<line
+   stroke-miterlimit="10"
+   x1="41.385746"
+   y1="40.343357"
+   x2="41.385746"
+   y2="52.759357"
+   id="line98"
+   style="fill:none;stroke:#999999;stroke-width:0.21359999;stroke-miterlimit:10" />
+	<text
+   y="51.497002"
+   x="9.2189751"
+   style="font-size:4.5px;font-family:DroidSans;fill:#555555;-inkscape-font-specification:'DroidSans, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
+   font-size="4.5"
+   id="text92-0"><tspan
+     sodipodi:role="line"
+     id="tspan985">VSupply</tspan></text>
+
+</g>
+	
+	
+<g
+   id="g1017"
+   transform="translate(0.11414142,-2.7824915)"><text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   y="23.853916"
+   x="27.507376"
+   id="text101"
+   font-size="6"><tspan
+     id="tspan987"
+     sodipodi:role="line"
+     x="27.507376"
+     y="23.853916">MLT</tspan></text>
+
+<text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   y="31.054117"
+   x="24.967375"
+   id="text103"
+   font-size="6"><tspan
+     id="tspan989"
+     sodipodi:role="line"
+     x="24.967375"
+     y="31.054117">isoSPI</tspan></text>
+
+<text
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6px;font-family:DroidSans;-inkscape-font-specification:'DroidSans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   y="38.345181"
+   x="24.967304"
+   id="text103-7"
+   font-size="6"><tspan
+     id="tspan1009"
+     sodipodi:role="line"
+     x="24.967304"
+     y="38.345181">Board</tspan></text>
+
+</g></g>
+</svg>
